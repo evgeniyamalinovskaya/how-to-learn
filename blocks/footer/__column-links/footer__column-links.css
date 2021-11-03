@@ -1,0 +1,11 @@
+.footer__column-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  /*display: grid;*/
+  /*grid-row-gap: 10px;*/
+  /*list-style-type: none;*/
+  /*margin: 0;*/
+  /*padding-bottom: 16px;*/
+}

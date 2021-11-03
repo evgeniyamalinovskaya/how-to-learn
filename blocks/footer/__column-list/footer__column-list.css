@@ -1,0 +1,7 @@
+.footer__column-list {
+  display: grid;
+  grid-row-gap: 10px;
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 0 16px 0;
+}
