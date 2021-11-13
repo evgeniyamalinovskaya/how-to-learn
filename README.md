@@ -11,3 +11,7 @@
   - CSS
 
  На странице используется анимация
+
+ **GitHub Pages**
+
+* [Demo](https://evgeniyamalinovskaya.github.io/how-to-learn/)
